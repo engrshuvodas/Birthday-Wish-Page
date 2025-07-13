@@ -1,9 +1,9 @@
-<h1>🎉 Birthday Wish Page | MyLove Edition</h1>
+<h1>🎉 Birthday Wish Card | MyLove Edition</h1>
 
 <p>A heartwarming and animated web-based birthday card made with only HTML, CSS, and JS — no backend or framework needed. This page is designed to give your loved ones a memorable digital surprise! 💝</p>
 
 <h3>🔗 Live Demo:</h3>
-<p><a href="https://engrshuvodas.github.io/Birthday-Wish-Page/" target="_blank">Click here to view the Birthday Wish Page</a></p>
+<p><a href="https://engrshuvodas.github.io/Birthday-Wish-Card/" target="_blank">Click here to view the Birthday Wish Card</a></p>
 
 <hr>
 
@@ -23,7 +23,7 @@
 <h2>📁 Project Structure</h2>
 
 <pre>
-Birthday-Wish-Page/
+Birthday-Wish-Card/
 ├── img/
 │   ├── girl1.jpg
 │   └── girl2.jpeg
@@ -63,7 +63,7 @@ Birthday-Wish-Page/
   <li>Clone or Download this repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/engrshuvodas/Birthday-Wish-Page.git</code></pre>
+<pre><code>git clone https://github.com/engrshuvodas/Birthday-Wish-Card.git</code></pre>
 
 <ol start="2">
   <li>Customize <code>index.html</code> and <code>bbd.html</code> with your own message, photos, and music.</li>
