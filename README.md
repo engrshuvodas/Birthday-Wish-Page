@@ -47,13 +47,13 @@ Birthday-Wish-Page/
 
 <h2>📸 Previews</h2>
 
-<h4>🎀 Card Preview (Front)</h4>
+<h4>🎂 Birthday Cake Animation </h4>
 <img src="preview1.png" alt="Preview 1" width="500">
 
-<h4>💝 Message Area (Inside)</h4>
+<h4>🎀 Card Preview</h4>
 <img src="preview2.png" alt="Preview 2" width="500">
 
-<h4>🎂 Birthday Cake Animation</h4>
+<h4>💝 Message Area</h4>
 <img src="preview3.png" alt="Preview 3" width="500">
 
 <hr>
