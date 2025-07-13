@@ -63,7 +63,7 @@ Birthday-Wish-Page/
   <li>Clone or Download this repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/Birthday-Wish-Page.git</code></pre>
+<pre><code>git clone https://github.com/engrshuvodas/Birthday-Wish-Page.git</code></pre>
 
 <ol start="2">
   <li>Customize <code>index.html</code> and <code>bbd.html</code> with your own message, photos, and music.</li>
